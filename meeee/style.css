@@ -48,7 +48,7 @@ table {
 }
 
 /* Add Styles Here */
-body { line-height:25px; font-family:Abel; font-size:12px; }
+body { line-height:50px; font-family:Abel; font-size:12px; }
 section#content { margin:0 auto; width:960px; padding:10px 10px; }
 
 h1 { font-size:48px; font-weight:bold; color:#1AE8DE;padding-bottom:10px;}
