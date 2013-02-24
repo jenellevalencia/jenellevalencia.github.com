@@ -31,12 +31,6 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height:10;
 }
-h1 {
-	line-height:10;
-}
-h2 {
-	line-height:10;
-}
 ol, ul {
 	list-style: none;
 }
