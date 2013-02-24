@@ -53,5 +53,5 @@ section#content { margin:0 auto; width:960px; padding:20px 0px; }
 
 h1 { line-height:10; font-size:48px; font-weight:italic; color:gray; text-align:right;}
 h2 { line-height:5;font-size:36px; color:lavender; text-align:right;padding-bottom:5px;}
-a{ font-size:10px; color:gray; text-align:right;text-decoration:none;padding-bottom:5px;}
-p { line-height:5;text-align:right; padding-bottom:15px; }
+a{ font-size:10px; color:gray; text-align:right;text-decoration:none;}
+p { line-height:5;text-align:right;}
