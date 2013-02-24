@@ -51,7 +51,7 @@ table {
 body { font-family:Abel; font-size:12px; }
 section#content { margin:0 auto; width:960px; padding:20px 0px; }
 
-h1 { font-size:48px; font-weight:italic; color:gray; text-align:right;padding-bottom:15px }
-h2 { font-size:36px; color:lavender; text-align:right;padding-bottom:15px }
+h1 { font-size:48px; font-weight:italic; color:gray; text-align:right;}
+h2 { font-size:36px; color:lavender; text-align:right;padding-bottom:}
 a{ font-size:10px; color:gray; text-align:right;text-decoration:none;padding-bottom:15px}
 p { text-align:right; padding-bottom:15px; }
