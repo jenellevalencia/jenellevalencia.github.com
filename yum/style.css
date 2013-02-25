@@ -1,5 +1,3 @@
-
-
 /* Meyer Reset */
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
@@ -35,8 +33,37 @@ body {
 	line-height: 1;
 }
 ol, ul {
-	list-style: none;
+	list-style: none;	
 }
+
+h1{ font-family:'abel';
+font-size:20px;
+color:black
+}
+
+h2{ font-family:'abel';
+font-size:18px;
+color:black
+}
+
+h3{ font-family:'abel';
+font-size:16px;
+color:black;
+}
+
+a{font-family:'meta';
+font-size:10px;
+color:gray;
+text-decoration:none;
+
+}
+
+p { font-family:Meta;
+font-size: 10px;
+color: gray;
+
+}
+
 blockquote, q {
 	quotes: none;
 }
@@ -52,5 +79,3 @@ table {
 
 
 /* END RESET */
-
-
