@@ -43,6 +43,7 @@ ol, ul {
 h1{ font-family:'abel';
 font-size:20px;
 color:black
+float:left;
 }
 
 h2{ font-family:'abel';
@@ -61,8 +62,6 @@ color:red;
 text-decoration:none;
 
 }
-
-
 
 blockquote, q {
 	quotes: none;
