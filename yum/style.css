@@ -39,7 +39,7 @@ color:gray;
 text-decoration:none;
 }
 ol, ul {
-	list-style: none;	
+	list-style: ul.circle;	
 }
 
 li {font-family:'georgia';
@@ -50,17 +50,17 @@ color:black;
 
 h1{ font-family:'abel';
 font-size:20px;
-color:black
+color:#983937
 }
 
 h2{ font-family:'abel';
 font-size:18px;
-color:black
+color:#983937
 }
 
 h3{ font-family:'abel';
 font-size:16px;
-color:black;
+color:#983937;
 }
 
 a, p {font-family:'georgia';
