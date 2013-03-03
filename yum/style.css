@@ -68,6 +68,9 @@ width:250px;
 padding-left:100px;
 }
 
+footer{clear: both;
+}
+
 h1{ font-family:'abel';
 font-size:20px;
 color:#983937
