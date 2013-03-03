@@ -48,10 +48,50 @@ table {
 }
 
 /* Add Styles Here */
-body { font-family:Georgia; font-size:14px; }
-section#content { margin:0 auto; width:960px; padding:50px 50px; }
-a {text-decoration:none; color:#669933}
+#container {padding-left:400px;
+padding-top:150px;
+width:550px;
+height:25px;
+overflow:hidden;
+-webkit-transition: all 2s ease;
+-moz-transition: all 2s ease;
+-o-transition: all 2s ease
+}
 
-h1 { font-family:Helvetica; text-transform:uppercase; font-size:50px; font-weight:bold; color:black;  }
-h2 { font-size:25px; font-weight:bold; color:black;  padding-top:30px;}
-p { font-size:20px; padding-top:10px; padding-left:50px; color:#cccccc;}
+#container:hover{
+height: 200px;
+}
+
+#visible_label a {
+padding-top: 2px;
+font: 16px abel, sans-serif;
+text-align: center;
+background-color: #00D0FF;
+color: #000000;
+width: 550px;
+height: 30px;
+display: block;
+-webkit-transition: all 2s ease;
+-moz-transition: all 2s ease;
+-o-transition: all 2s ease
+}
+
+#invisible_label a{
+font: 16px abel, sans-serif;
+text-align: center;
+background-color: #E3DC07;
+color: #FF00CC;
+-webkit-transition: all 0.8s ease;
+-moz-transition: all 0.8s ease;
+-o-transition: all 0.8s ease;
+display:block;
+padding:3px;
+}
+
+#invisible_label a:hover{
+background-color: #ffffff;
+color: #000000;
+}
+
+a{text-decoration: none;
+}
