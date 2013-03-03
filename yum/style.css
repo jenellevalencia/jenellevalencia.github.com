@@ -41,7 +41,7 @@ text-decoration:none;
 
 
 ol, ul {text-align:right;
-	list-style: ul.circle;	
+	list-style: none;	
 }
 
 li {font-family:'georgia';
