@@ -74,8 +74,9 @@ font-size=30px;
 color=black;
 }
 
-footer {border-margin:2px;
+footer {border-width:2px;
 border-style:solid;
+border-color:black;
 text-align:left;
 font-family:helvetica; 
 font-size=9px;
