@@ -77,6 +77,21 @@ font-family: 'Yanone Kaffeesatz', sans-serif;
 	color=black;
 }
 
+#dogs { float: left;
+  margin: 10px;
+  width: 350px;
+  padding-left:20px;
+  padding-right:20px;
+	
+}
+#cats { float: right;
+  margin: 10px;
+  width: 350px;
+  padding-left:20px;
+  padding-right:20px;	
+	
+}
+
 footer {border-width:2px;
 border-style:solid;
 border-color:black;
@@ -87,16 +102,6 @@ font-size=9px;
 color=gray;	
 }
 
-#dogs { float: left;
-  margin: 10px;
-  width: 600px;
-	
-}
-#cats { float: right;
-  margin: 10px;
-  width: 600px;
-	
-}
 
 /* Center Content */
 
