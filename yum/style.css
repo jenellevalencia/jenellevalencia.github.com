@@ -56,7 +56,12 @@ color:black;
 text-align:left;
 }
 
-#cakepicture, #title{float:left;
+#title{padding-left:150px
+padding-top:400px
+	
+}
+
+#cakepicture{float:left;
 margin:100px;
 width:250px;
 padding-left:100px;
