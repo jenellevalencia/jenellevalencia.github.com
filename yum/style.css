@@ -40,14 +40,14 @@ text-decoration:none;
 }
 
 
-ol, ul {padding-left: 10 px;
+ol, ul {text-align:center;
 	list-style: ul.circle;	
 }
 
 li {font-family:'georgia';
 font-size:12px;
 color:black;
-padding-left: 10 px;
+text-align:center;
 }
 
 section{float:left;
@@ -57,18 +57,21 @@ h1{ font-family:'abel';
 font-size:20px;
 color:#983937
 padding-left: 10 px;
+text-align:center;
 }
 
 h2{ font-family:'abel';
 font-size:18px;
 color:#983937
 padding-left: 10 px;
+text-align:center;
 }
 
 h3{ font-family:'abel';
 font-size:16px;
 color:#983937;
 padding-left: 10 px;
+text-align:center;
 }
 
 a, p {font-family:'georgia';
@@ -76,9 +79,9 @@ font-size:12px;
 color:black;
 text-decoration:none;
 padding-left: 10 px;
+text-align:center;
 
 }
-
 
 blockquote, q {
 	quotes: none;
