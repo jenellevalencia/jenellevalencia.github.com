@@ -1,6 +1,6 @@
 #container {
-width:300px;
-height:200px;
+width:150px;
+height:16px;
 overflow:hidden;
 -webkit-transition: all 2s ease;
 -moz-transition: all 2s ease;
@@ -8,15 +8,15 @@ overflow:hidden;
 }
 
 #container:hover{
-height: 200px;
+height: 216px;
 }
 
 #visible_label a {
-font: 15px/16px Georgia, serif;
+font: 9px/16px Georgia, "Times New Roman", Times, serif;
 text-align: center;
 background-color: #333333;
 color: #F8F8F8;
-width: 300px;
+width: 150px;
 display: block;
 -webkit-transition: all 2s ease;
 -moz-transition: all 2s ease;
@@ -28,7 +28,6 @@ font: 9px/16px Georgia, "Times New Roman", Times, serif;
 text-align: center;
 background-color: #333333;
 color: #f8f8f8;
-height: 200px;
 -webkit-transition: all 0.8s ease;
 -moz-transition: all 0.8s ease;
 -o-transition: all 0.8s ease;
