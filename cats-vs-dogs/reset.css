@@ -30,7 +30,7 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
-	line-height: 1;
+	line-height: 2;
 }
 ol, ul {
 	list-style: none;
@@ -56,13 +56,10 @@ table {
 	border-spacing: 0;
 }
 header {text-align:center;
+padding-top:5px;
+padding-top:10px;
 }
 
-footer {text-align:right;
-font-family:georgia; 
-font-size=10px;
-color=gray;
-}
 
 p{text-align:left;
 font-family:georgia; 
