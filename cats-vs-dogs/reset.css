@@ -94,7 +94,7 @@ color: #A0AEB8;
 text-align:center;}
 
 
-nav {float:left;
+nav li ul {float:left;
 text-align:center;
 text-decoration:none;
 font-family: 'Yanone Kaffeesatz', sans-serif; 
