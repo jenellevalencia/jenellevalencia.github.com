@@ -69,23 +69,12 @@ text-align:left;}
 nav ol ul {background-color:gray;
 	list-style: none;
 	width:20%;
-    float:left;
-    margin:10%;
+    	float:left;
+   	margin:10%;
 	text-transform:uppercase;
-font-family: 'Yanone Kaffeesatz', sans-serif; 
-font-size=30px;
-color=black;
-}
-
-li { list-style:none;
-    float:left;
-    margin:10px;
-    background-color:white;
-    padding:7px 14px;
-    color:white;
-    text-transform:uppercase;
-    font-family:helvetica;
-	
+	font-family: 'Yanone Kaffeesatz', sans-serif; 
+	font-size=30px;
+	color=black;
 }
 
 footer {border-width:2px;
