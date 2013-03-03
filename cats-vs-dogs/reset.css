@@ -94,12 +94,13 @@ li{list-style:none;
 }
 
 #bottom-info {border-width:2px;
+background-color:gray;
 border-style:solid;
 border-color:white;
 text-align:left;
 padding-top:200px;
 font-family:helvetica; 
-font-size=9px;
+font-size:8px;
 color=gray;	
 }
 
