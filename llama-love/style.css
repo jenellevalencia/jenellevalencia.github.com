@@ -51,13 +51,13 @@ table {
 
 /* END RESET */
 #llama-top{float:left;
-  margin: 50px;
+  margin: 100px;
   width: 350px;
   padding-top:50px;
  }
 
 #llama-bottom{float:right;
-  margin: 50px;
+  margin: 100px;
   width: 350px;
   padding-top:50px;
  }
