@@ -1,6 +1,6 @@
 #container {
-width:150px;
-height:16px;
+width:300px;
+height:200px;
 overflow:hidden;
 -webkit-transition: all 2s ease;
 -moz-transition: all 2s ease;
@@ -8,5 +8,34 @@ overflow:hidden;
 }
 
 #container:hover{
-height: 216px;
+height: 200px;
+}
+
+#visible_label a {
+font: 9px/16px Georgia, "Times New Roman", Times, serif;
+text-align: center;
+background-color: #333333;
+color: #F8F8F8;
+width: 300px;
+display: block;
+-webkit-transition: all 2s ease;
+-moz-transition: all 2s ease;
+-o-transition: all 2s ease
+}
+
+#invisible_label a{
+font: 9px/16px Georgia, "Times New Roman", Times, serif;
+text-align: center;
+background-color: #333333;
+color: #f8f8f8;
+-webkit-transition: all 0.8s ease;
+-moz-transition: all 0.8s ease;
+-o-transition: all 0.8s ease;
+display:block;
+padding:3px;
+}
+
+#invisible_label a:hover{
+background-color: #f8f8f8;
+color: #333333;
 }
