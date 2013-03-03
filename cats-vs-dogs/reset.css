@@ -82,17 +82,17 @@ font-family: 'Yanone Kaffeesatz', sans-serif;
   width: 350px;
   padding-left:20px;
   padding-right:20px;
-	
+
 }
 #cats { float: right;
   margin: 0px;
   width: 350px;
   padding-left:0px;
   padding-right:20px;	
-	
+
 }
 
-footer {border-width:2px;
+#bottom-info {border-width:2px;
 border-style:solid;
 border-color:white;
 text-align:left;
@@ -124,5 +124,3 @@ color=gray;
 .clearfix { display: inline-block; }
 html[xmlns] .clearfix { display: block; }
 * html .clearfix { height: 1%; }
-
-
