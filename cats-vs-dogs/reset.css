@@ -85,7 +85,7 @@ font-family: 'Yanone Kaffeesatz', sans-serif;
 	
 }
 #cats { float: right;
-  margin: 10px;
+  margin: 0px;
   width: 350px;
   padding-left:0px;
   padding-right:20px;	
@@ -96,7 +96,7 @@ footer {border-width:2px;
 border-style:solid;
 border-color:white;
 text-align:left;
-padding-top:15px;
+padding-top:2px;
 font-family:helvetica; 
 font-size=9px;
 color=gray;	
