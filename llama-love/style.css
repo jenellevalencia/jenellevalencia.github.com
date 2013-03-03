@@ -50,11 +50,14 @@ table {
 
 
 /* END RESET */
-section{float:left;
+#llama-top{float:left;
   margin: 100px;
   width: 400px;
   padding-top:150px;
  }
 
-article {float:right;
- } 
+#llama-bottom{float:right;
+  margin: 100px;
+  width: 400px;
+  padding-top:150px;
+ }
