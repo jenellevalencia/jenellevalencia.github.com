@@ -13,12 +13,12 @@ height: 200px;
 
 #visible_label a {
 padding-top: 3px;
-font: 9px/16px abel, sans-serif;
+font: 16px abel, sans-serif;
 text-align: center;
 background-color: #00D0FF;
 color: #000000;
 width: 550px;
-height: 100px;
+height: 50px;
 display: block;
 -webkit-transition: all 2s ease;
 -moz-transition: all 2s ease;
@@ -26,7 +26,7 @@ display: block;
 }
 
 #invisible_label a{
-font: 9px/16px abel, sans-serif;
+font: 16px abel, sans-serif;
 text-align: center;
 background-color: #E3DC07;
 color: #FF00CC;
