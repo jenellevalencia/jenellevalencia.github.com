@@ -87,6 +87,17 @@ font-size=9px;
 color=gray;	
 }
 
+#dogs { float: left;
+  margin: 10px;
+  width: 600px;
+	
+}
+#cats { float: right;
+  margin: 10px;
+  width: 600px;
+	
+}
+
 /* Center Content */
 
 .centered { 
