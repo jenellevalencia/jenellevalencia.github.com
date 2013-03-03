@@ -52,18 +52,17 @@ table {
 /* END RESET */
 #llama-top{float:left;
   margin: 100px;
-  width: 400px;
+  width: 20px;
   padding-top:50px;
  }
 
 #llama-bottom{float:right;
   margin: 100px;
-  width: 400px;
+  width: 20px;
   padding-top:50px;
  }
 
-p {font-family:georgia;
+p h1 h2 h3 {font-family:georgia;
 font-size:9px;
 color:gray;
-	
 }
