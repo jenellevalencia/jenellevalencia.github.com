@@ -57,11 +57,10 @@ padding-right:100px;
 }
 
 #listofstuff{float:right;
-background-color:gray;
 margin:100px;
-width:350px;
-padding-left:200px;
-padding-top:50px;
+width:250px;
+padding-left:100px;
+}
 }
 
 ul {text-align:left;
