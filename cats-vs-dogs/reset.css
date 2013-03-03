@@ -66,13 +66,13 @@ font-size: 30px;
 color: #A0AEB8; 
 text-align:left;}
 
-nav ol ul {background-color:gray;
-	list-style: none;
-	width:20%;
-    	float:left;
-   	margin:10%;
-	text-transform:uppercase;
-	font-family: 'Yanone Kaffeesatz', sans-serif; 
+nav ol ul li {  list-style:none;
+    float:left;
+    margin:10px;
+    padding:7px 14px;
+    text-transform:uppercase;
+    background-color:gray;
+font-family: 'Yanone Kaffeesatz', sans-serif; 
 	font-size=30px;
 	color=black;
 }
