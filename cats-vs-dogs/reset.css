@@ -66,7 +66,7 @@ font-size: 30px;
 color: #A0AEB8; 
 text-align:left;}
 
-nav ol ul li {  list-style:none;
+nav { list-style:none;
     float:left;
     margin:10px;
     padding:7px 14px;
