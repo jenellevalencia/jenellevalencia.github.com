@@ -31,12 +31,6 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 2;
-	font-family:'helvetica';
-	background-color:white;
-	float:right;
-font-size:12px;
-color:gray;
-text-decoration:none;
 }
 
 blockquote, q {
