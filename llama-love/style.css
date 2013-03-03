@@ -50,7 +50,9 @@ table {
 
 
 /* END RESET */
- #main-content{float:right;
+section{float:left;
+  margin: 10px;
+  width: 600px;
  }
 
 article {float:right;
