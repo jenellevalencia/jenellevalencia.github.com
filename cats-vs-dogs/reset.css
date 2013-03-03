@@ -74,12 +74,16 @@ html[xmlns] .clearfix { display: block; }
 header {text-align:center;
 }
 
+section {float:left;
+	
+}
+
 h1{ font-family: 'Yanone Kaffeesatz', sans-serif; 
 font-size: 30px; 
 color: #A0AEB8; 
 text-align:center;}
 
-p {font-family:georgia;
+p {font-family:ab;
 font-size:12px;
 color:gray;
 
