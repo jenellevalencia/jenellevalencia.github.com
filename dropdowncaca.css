@@ -13,7 +13,7 @@ height: 200px;
 
 #visible_label a {
 padding-top: 3px;
-font: 9px/16px Georgia, serif;
+font: 9px/16px abel, sans-serif;
 text-align: center;
 background-color: #00D0FF;
 color: #000000;
@@ -26,7 +26,7 @@ display: block;
 }
 
 #invisible_label a{
-font: 9px/16px Georgia, "Times New Roman", Times, serif;
+font: 9px/16px abel, sans-serif;
 text-align: center;
 background-color: #E3DC07;
 color: #FF00CC;
@@ -39,7 +39,7 @@ padding:3px;
 
 #invisible_label a:hover{
 background-color: #ffffff;
-color: #0000000;
+color: #000000;
 }
 
 a{text-decoration: none;
