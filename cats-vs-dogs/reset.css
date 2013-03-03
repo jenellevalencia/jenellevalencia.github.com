@@ -68,7 +68,9 @@ text-align:left;}
 
 nav ol ul {background-color:gray;
 	list-style: none;
-	float:left;
+	width:20%;
+    float:left;
+    margin:10%;
 	text-transform:uppercase;
 font-family: 'Yanone Kaffeesatz', sans-serif; 
 font-size=30px;
