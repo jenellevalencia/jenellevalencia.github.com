@@ -62,7 +62,12 @@ table {
   padding-top:50px;
  }
 
-p h1 h2 h3 {font-family:georgia;
+p  {font-family:georgia;
 font-size:9px;
+color:gray;
+}
+
+h1 {font-family:georgia;
+font-size:14px;
 color:gray;
 }
