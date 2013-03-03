@@ -55,9 +55,9 @@ padding-bottom:10px;
 
 p{text-align:left;
 font-family:helvetica; 
-font-size=9px;
+font-size:10px;
 color=gray;
-padding-bottom:15px;
+padding-bottom:5px;
 }
 
 
@@ -98,7 +98,7 @@ background-color:gray;
 border-style:solid;
 border-color:white;
 text-align:left;
-padding-top:200px;
+padding-top:600px;
 font-family:helvetica; 
 font-size:8px;
 color=gray;	
