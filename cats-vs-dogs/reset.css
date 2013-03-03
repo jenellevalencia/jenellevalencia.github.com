@@ -71,6 +71,9 @@ table {
 html[xmlns] .clearfix { display: block; }
 * html .clearfix { height: 1%; }
 
+header {align:center;
+}
+
 h1{ font-family: 'Yanone Kaffeesatz', sans-serif; 
 font-size: 30px; 
 color: #A0AEB8; 
