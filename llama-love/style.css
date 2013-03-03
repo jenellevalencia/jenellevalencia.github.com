@@ -53,6 +53,7 @@ table {
 section{float:left;
   margin: 10px;
   width: 600px;
+  padding-top:200px;
  }
 
 article {float:right;
