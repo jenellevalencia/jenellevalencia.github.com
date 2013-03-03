@@ -56,7 +56,16 @@ color:black;
 text-align:left;
 }
 
-section{float:left;
+#cakepicture{float:left;
+margin:100px;
+width:250px;
+padding-left:100px;
+}
+
+#listofstuff{float:right;
+margin:100px;
+width:250px;
+padding-left:100px;
 }
 
 h1{ font-family:'abel';
