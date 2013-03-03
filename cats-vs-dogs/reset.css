@@ -40,9 +40,12 @@ font-family: 'Yanone Kaffeesatz', sans-serif;
 font-size=24px;
 color=black;
 }
+
+
 blockquote, q {
 	quotes: none;
 }
+
 blockquote:before, blockquote:after,
 q:before, q:after {
 	content: '';
@@ -63,7 +66,7 @@ color=gray;
 
 p{text-align:left;
 font-family:georgia; 
-font-size=12px;
+font-size=10px;
 color=gray;
 }
 section {float:left;
