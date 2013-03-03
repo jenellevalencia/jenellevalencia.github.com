@@ -42,14 +42,12 @@ text-decoration:none;
 
 ol, ul {text-align:left;
 	list-style: none;	
-	float:right;
 }
 
 li {font-family:'georgia';
 font-size:12px;
 color:black;
 text-align:left;
-float:right;
 }
 
 section{float:left;
@@ -60,7 +58,6 @@ font-size:20px;
 color:#983937
 padding-left: 10 px;
 text-align:left;
-float:right;
 }
 
 h2{ font-family:'abel';
@@ -68,7 +65,6 @@ font-size:18px;
 color:#983937
 padding-left: 10 px;
 text-align:left;
-float:right;
 }
 
 h3{ font-family:'abel';
@@ -76,7 +72,6 @@ font-size:16px;
 color:#983937;
 padding-left: 10 px;
 text-align:left;
-float:right;
 }
 
 a, p {font-family:'georgia';
@@ -84,7 +79,6 @@ font-size:12px;
 color:black;
 text-decoration:none;
 padding-left: 10 px;
-text-align:right;
 
 }
 
