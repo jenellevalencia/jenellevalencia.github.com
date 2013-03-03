@@ -71,7 +71,7 @@ table {
 html[xmlns] .clearfix { display: block; }
 * html .clearfix { height: 1%; }
 
-header {align:center;
+header {text-align:center;
 }
 
 h1{ font-family: 'Yanone Kaffeesatz', sans-serif; 
@@ -85,7 +85,7 @@ color:gray;
 
 }
 
-nav, a {float:left;
+nav, a, ul, li {float:left;
 text-decoration:none;
 font-family: 'Yanone Kaffeesatz', sans-serif; 
 font-size=24px;
