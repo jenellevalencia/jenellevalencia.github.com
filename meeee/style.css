@@ -49,11 +49,16 @@ table {
 
 /* Add Styles Here */
 body { line-height:50px; font-family:Abel; font-size:12px; }
-section
-#content { float:left;
-	margin:0 auto; 
-	width:350px; 
-	padding-left:100px;}
+
+#content {float: left;
+ 	 margin: 10px;
+ 	 width: 600px;}
+ 	 
+ 	
+#gpoy {float: right;
+ 	 margin: 10px;
+ 	 width: 600px;
+ 	 height:300px;}
 
 h1 { text-align:right; font-size:48px; font-weight:bold; color:#1AE8DE;padding-bottom:0px;}
 h2 { text-align:right;font-size:36px; font-weight:italic; color:gray; padding-bottom:0px;}
