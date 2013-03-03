@@ -34,6 +34,11 @@ body {
 }
 ol, ul {
 	list-style: none;
+	float:left;
+text-decoration:none;
+font-family: 'Yanone Kaffeesatz', sans-serif; 
+font-size=24px;
+color=black;
 }
 blockquote, q {
 	quotes: none;
