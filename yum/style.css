@@ -40,8 +40,14 @@ text-decoration:none;
 }
 
 
-ol, ul {text-align:left;
+ul {text-align:left;
 	list-style: none;	
+}
+
+ol {
+	text-align:left;
+	list-style: ol.upper-roman;	
+
 }
 
 li {font-family:'georgia';
