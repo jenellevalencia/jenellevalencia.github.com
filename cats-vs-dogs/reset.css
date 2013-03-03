@@ -94,11 +94,11 @@ li{list-style:none;
 }
 
 #bottom-info {border-width:2px;
-background-color:gray;
+background-color:white;
 border-style:solid;
 border-color:white;
 text-align:left;
-padding-top:600px;
+padding-top:500px;
 font-family:helvetica; 
 font-size:8px;
 color=gray;	
