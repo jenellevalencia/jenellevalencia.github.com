@@ -77,9 +77,11 @@ background-color:red;
 }
 
 #footer-follow {
-	
-
-
+	background-color:yellow;
+    padding:50px;
+    position:absolute;
+    bottom:0;
+    right:0;
 }
 
 li{text-decoration:none;
