@@ -59,7 +59,8 @@ table {
 float:left;
 background-color:brown;
 margin-left:600px;
-margin-top:450px;
+margin-top:150px;
+width:100%
 }
 
 #content {
@@ -73,6 +74,12 @@ width:420px;
 #sidebar {float:right;
 width:200px;
 background-color:red;
+}
+
+#footer-follow {
+	
+
+
 }
 
 li{text-decoration:none;
