@@ -62,6 +62,14 @@ margin-left:600px;
 margin-top:450px;
 }
 
+#content {background-color:white;
+float:left;
+position:absolute;
+padding-left:50px;
+	
+
+}
+
 li, a{text-decoration:none;
 color:white;
 float:left;
