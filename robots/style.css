@@ -77,18 +77,17 @@ background-color:red;
 }
 
 #footer-follow {
-	background-color:yellow;
+	background-color:brown;
+	float:right;
     padding:50px;
     position:absolute;
     bottom:0;
     right:0;
 }
 
-#footer-contact {	background-color:yellow;
+#footer-contact {background-color:brown;
+    float:left;
     padding:50px;
-    position:absolute;
-    bottom:0;
-    right:0;
 }
 
 li{text-decoration:none;
