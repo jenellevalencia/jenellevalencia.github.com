@@ -48,9 +48,9 @@ table {
 	border-spacing: 0;
 }
 
-#menu-wrapper {background color:-yellow;
-height: 100px;
-
-	
+#menu-wrapper { min-height: 100%;
+    width: 100%;
+    background-color: yellow;
+    overflow: hidden;
 
 }
