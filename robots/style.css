@@ -57,7 +57,13 @@ table {
 #main-menu {text-decoration:none;
 float:left;
 background-color:brown;
-margin-left:20px;
+margin-left:60px;
+}
+
+li {text-decoration:none;
+color:white;
+float:left;
+
 	
 
 }
