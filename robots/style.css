@@ -73,6 +73,7 @@ width:420px;
 #sidebar {float:right;
 padding-top:200px;
 width:200px;
+background-color:red;
 }
 
 li, a{text-decoration:none;
