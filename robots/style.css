@@ -58,7 +58,7 @@ table {
 float:left;
 background-color:brown;
 margin-top:50px;
-margin-left:500px;
+margin-left:0px;
 width:100%
 }
 
@@ -67,4 +67,6 @@ color:white;
 float:left;
 margin:1px;
 font-family:helvetica;
+text-transform:uppercase;
+margin-left:500px;
 }
