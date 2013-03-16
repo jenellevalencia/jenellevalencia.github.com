@@ -71,11 +71,10 @@ width:400px;
 }
 
 #sidebar {float:right;
-padding-right: 350px;
 position:absolute;
 padding-top:200px;
 padding-left:200px;
-width:400px;
+width:200px;
 }
 
 li, a{text-decoration:none;
