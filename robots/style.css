@@ -67,7 +67,7 @@ float:left;
 position:absolute;
 padding-top:200px;
 padding-left:200px;
-width:400px;
+width:420px;
 }
 
 #sidebar {float:right;
@@ -86,7 +86,7 @@ margin:1px;
 h1 {font-family:helvetica;
 text-transform:uppercase;
 color:brown;
-font-size:24px;
+font-size:35px;
 }
 
 h2 {font-family:helvetica;
