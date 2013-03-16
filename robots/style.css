@@ -65,7 +65,7 @@ margin-top:450px;
 #content {background-color:white;
 float:left;
 position:absolute;
-padding-left:50px;
+padding-left:450px;
 	
 
 }
@@ -88,10 +88,8 @@ color:brown;
 font-size:18px;
 }
 
-p{h1 {font-family:helvetica;
+p {h1 {font-family:helvetica;
 color:black;
 font-size:14px;
 }
 	
-
-}
