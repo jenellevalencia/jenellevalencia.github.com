@@ -53,5 +53,11 @@ table {
     height:100px;
     background-color: yellow;
     overflow: hidden;
+}
+#main-menu {text-decoration:none;
+float:left;
+background-color:brown;
+margin-left:20px;
+	
 
 }
