@@ -65,13 +65,12 @@ margin-top:450px;
 #content {background-color:white;
 float:left;
 position:absolute;
-padding-left:450px;
-width:300px;
+padding-left:350px;
+width:350px;
 }
 
 #sidebar {float:right;
-padding-right: 40px;
-
+padding-right: 350px;
 }
 
 li, a{text-decoration:none;
