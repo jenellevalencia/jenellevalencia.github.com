@@ -57,8 +57,9 @@ table {
 #main-menu {text-decoration:none;
 float:left;
 background-color:brown;
-margin-left:600px;
+margin-left:550px;
 margin-top:50px;
+width:100%
 }
 
 li, a{text-decoration:none;
