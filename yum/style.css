@@ -110,8 +110,9 @@ text-align:left;
 }
 
 ol {float:right;
-padding-left: 100px;
+	padding-left: 250px;
 	text-align:left;
+	width:500px;
 	list-style: ol.upper-roman;	
 }
 
