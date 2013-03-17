@@ -70,7 +70,7 @@ nav {
     margin:10px;
     margin-top:10px;
     margin-bottom:10px;
-    padding-left:250px;
+    padding-left:240px;
     text-transform:uppercase;
     font-family: helvetica;
     font-size:25px;
@@ -111,7 +111,11 @@ text-align:left;
 padding-top:500px;
 font-family:helvetica; 
 font-size:8px;
-color=gray;	
+color:gray;
+	padding-left:20px;
+	padding-top: 10px;
+	border-top: 3pt solid black;
+	width: 144px;
 }
 
 
