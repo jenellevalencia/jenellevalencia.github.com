@@ -81,6 +81,13 @@ border-bottom: 3pt solid black;
 
 li{list-style:none;
 float:left;
+	padding-left:20px;
+	padding-top: 10px;
+	border-top: 3pt solid black;
+	border-bottom: 3pt solid black;
+	width: 144px;
+	height: 30px;
+	list-style-type: disc;
 }
 
 #dogs { float: left;
