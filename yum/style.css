@@ -63,7 +63,7 @@ padding-top:400px
 margin:100px;
 width:250px;
 padding-left:100px;
-padding-bottom:100px;
+padding-bottom:5px;
 }
 
 #listofstuff{float:left;
@@ -71,12 +71,11 @@ margin:100px;
 width: 60%;
 width:250px;
 padding-left:100px;
-padding-bottom:100px;
+padding-bottom:50px;
 }
 
 #directions{float:left;
 padding-left:200px;
-padding-top:-200px;
 }
 
 footer{clear: both;
