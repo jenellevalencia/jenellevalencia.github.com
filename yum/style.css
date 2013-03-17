@@ -112,7 +112,7 @@ ul {
 }
 
 ol {float:right;
-	padding-left: 250px;
+	padding-left: 10 px;
 	text-align:left;
 	list-style: ol.upper-roman;	
 }
