@@ -55,7 +55,8 @@ table {
 
 /* END RESET */
 
-#title{padding-left:150px
+#title{float:left;
+padding-left:150px
 padding-top:400px
 }
 
