@@ -66,8 +66,7 @@ font-size: 30px;
 color: #A0AEB8; 
 text-align:left;}
 
-nav {border-top: 3pt solid black;
-border-bottom: 3pt solid black;
+nav {
     margin:10px;
     margin-top:10px;
     margin-bottom:10px;
