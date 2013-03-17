@@ -76,6 +76,7 @@ nav {
 }
 
 li{list-style:none;
+float:left;
 }
 
 #dogs { float: left;
