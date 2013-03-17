@@ -70,6 +70,35 @@ table {
 html[xmlns] .clearfix { display: block; }
 * html .clearfix { height: 1%; }
 
+
+#dogs {float:left;
+  margin: 10px;
+  width: 350px;
+  padding-left:200px;
+
+}
+#cats {float:right;
+  margin: 0px;
+  width: 350px;
+  padding-left:0px;
+  padding-right:200px;	
+
+}
+
+#bottom-info {border-width:2px;
+background-color:white;
+border-style:solid;
+border-color:white;
+text-align:left;
+padding-top:500px;
+font-family:helvetica; 
+font-size:8px;
+color:gray;
+
+	border-top: 3pt solid black;
+	width: 144px;
+}
+
 header {text-align:center;
 padding-top:5px;
 padding-bottom:10px;
@@ -110,32 +139,4 @@ li{
 	width: 144px;
 	height: 30px;
 	list-style-type: disc;
-}
-
-#dogs { float: left;
-  margin: 10px;
-  width: 350px;
-  padding-left:200px;
-
-}
-#cats {float:right;
-  margin: 0px;
-  width: 350px;
-  padding-left:0px;
-  padding-right:200px;	
-
-}
-
-#bottom-info {border-width:2px;
-background-color:white;
-border-style:solid;
-border-color:white;
-text-align:left;
-padding-top:500px;
-font-family:helvetica; 
-font-size:8px;
-color:gray;
-
-	border-top: 3pt solid black;
-	width: 144px;
 }
