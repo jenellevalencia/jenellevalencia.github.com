@@ -86,17 +86,13 @@ html[xmlns] .clearfix { display: block; }
 }
 
 #bottom-info {border-width:2px;
-background-color:white;
 border-style:solid;
-border-color:white;
 text-align:left;
 padding-top:500px;
+border-top: 3pt solid black;
 font-family:helvetica; 
 font-size:8px;
 color:gray;
-
-	border-top: 3pt solid black;
-	width: 144px;
 }
 
 header {text-align:center;
