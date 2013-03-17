@@ -74,7 +74,7 @@ padding-left:100px;
 
 #directions{float:left;
 padding-left:200px;
-padding-top:100px;
+padding-top:-100px;
 }
 
 footer{clear: both;
