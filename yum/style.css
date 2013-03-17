@@ -74,7 +74,7 @@ padding-left:100px;
 footer{clear: both;
 }
 
-h1{ font-family:'abel';
+h1{font-family:'abel';
 font-size:20px;
 color:#983937
 padding-left: 10 px;
@@ -105,12 +105,11 @@ padding-left: 10 px;
 a {color:#de4b48;
 }
 
-ul {
-	text-align:left;
+ul {text-align:left;
 	list-style: none;	
 }
 
-ol {float:right;
+ol {
 	margin:100px;
 	width:250px;
 	padding-left:100px;
