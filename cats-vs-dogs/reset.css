@@ -85,13 +85,13 @@ html[xmlns] .clearfix { display: block; }
 
 }
 
-#bottom-info {border-width:2px;
-border-style:solid;
-text-align:left;
-padding-top:100px;
-font-family:helvetica; 
-font-size:8px;
-color:gray;
+#bottom-info {
+	border-width:2px;
+	border-style:solid;
+	text-align:left;
+	font-family:helvetica; 
+	font-size:8px;
+	color:gray;
 }
 
 header {text-align:center;
