@@ -135,14 +135,16 @@ background-color:purple;
 }
 
 #footer-contact {background-color:lime;
-	width:15%;
-	margin: 0 auto;
+	width:30%;
+	margin-left: 220px;
 
 }
 
-#footer-follow {background-color:purple;
-	float:left;
-	width:15%;
+#footer-follow {position:absolute; top:700; right:300; bottom:0; left:600;
+	background-color:purple;
+	width:20%;
+	height: 80px;
+	margin-left: 795px;
 
 }
 
