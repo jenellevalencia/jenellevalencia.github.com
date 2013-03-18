@@ -65,14 +65,13 @@ width:100%
 
 #content {
 float:left;
-position:absolute;
 padding-top:200px;
 padding-left:200px;
 width:420px;
 }
 
 #sidebar {float:right;
-width:30%;
+	width:30%;
 	margin-top:20px;
 	padding:10px;
 	position: relative;
@@ -121,4 +120,3 @@ p {h1 {font-family:helvetica;
 color:black;
 font-size:14px;
 }
-	
