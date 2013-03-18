@@ -80,10 +80,8 @@ width:420px;
 	background-color:brown;
 	width:100%;
 	float:right;
-    	padding-top:50px;
- 	bottom:0;
-    	right:0;
-    	position:relative; top:900px; 
+    	padding:50px;
+    	position:absolute; top:900px; 
 }
 
 #footer-contact {
