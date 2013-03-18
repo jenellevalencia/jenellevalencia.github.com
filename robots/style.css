@@ -87,7 +87,7 @@ width:420px;
 
 #footer-contact {
 	background-color:brown;
-    	float:left;
+    	position: absolute;
     	padding:50px;
     	width:200px;
 }
