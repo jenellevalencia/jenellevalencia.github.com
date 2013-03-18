@@ -79,10 +79,10 @@ width:420px;
 	background-color:brown;
 	width:100%;
 	float:right;
-    padding-top:50px;
-    bottom:0;
-    right:0;
-    position:relative; right: 150px;
+    	padding-top:50px;
+ 	bottom:0;
+    	right:0;
+    	position:relative; left: 150px;
 }
 
 #footer-contact {background-color:brown;
