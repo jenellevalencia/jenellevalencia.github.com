@@ -73,8 +73,7 @@ width:300px;
 
 #sidebar {float:right;
 	width:320px;
-	height: 405px;
-	padding:10px;
+	height:405px;
 }
 
 #footer-follow {
@@ -94,6 +93,9 @@ width:300px;
 
 footer {padding-top:500px;	
 	
+}
+
+aside { float:right;
 }
 
 li{text-decoration:none;
