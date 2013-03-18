@@ -130,18 +130,18 @@ background-color:purple;
 
 #footer-wrapper {
 	clear:both;
-	background-color: cyan;
+	background-color: chocolate;
 	height:120px;
 }
 
-#footer-contact {background-color:lime;
+#footer-contact {background-color:chocolate;
 	width:30%;
-	margin-left: 150px;
+	margin-left: 136px;
 
 }
 
 #footer-follow {position:absolute; top:700; right:300; bottom:0; left:600;
-	background-color:purple;
+	background-color:chocolate;
 	width:25%;
 	height: 80px;
 	margin-left: 775px;
