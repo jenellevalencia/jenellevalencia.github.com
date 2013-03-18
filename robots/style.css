@@ -85,9 +85,11 @@ width:420px;
     	position:relative; left: 760px; 
 }
 
-#footer-contact {background-color:brown;
-    float:left;
-    padding:50px;
+#footer-contact {
+	background-color:brown;
+    	float:left;
+    	padding:50px;
+    	width:200px;
 }
 
 footer {padding-top:500px;	
