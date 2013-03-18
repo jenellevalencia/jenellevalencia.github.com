@@ -34,7 +34,7 @@ body {font-family: helvetica;
 	width:100%;
 	margin: 0 auto;
 	background-color: pink
-	
+
 }
 ol, ul {
 	list-style: none;
@@ -140,6 +140,14 @@ background-color:purple;
 
 }
 
+#footer-contact h1 {color:brown;
+	font-size: 18px;
+	text-transform: uppercase;
+}
+
+#footer-contact p {color:white;
+}
+
 #footer-follow {position:absolute; top:700; right:300; bottom:0; left:600;
 	background-color:chocolate;
 	width:25%;
@@ -149,4 +157,3 @@ background-color:purple;
 
 #footer-follow li {float:left;
 }
-
