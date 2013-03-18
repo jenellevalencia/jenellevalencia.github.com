@@ -84,6 +84,7 @@ width:420px;
     padding-top:50px;
     bottom:0;
     right:0;
+    position:relative;
 }
 
 #footer-contact {background-color:brown;
@@ -91,8 +92,7 @@ width:420px;
     padding:50px;
 }
 
-footer {padding-top:500px;
-	
+footer {padding-top:500px;	
 	
 }
 
