@@ -146,6 +146,7 @@ background-color:purple;
 }
 
 #footer-contact p {color:white;
+	font-size: 10px;
 }
 
 #footer-follow {position:absolute; top:700; right:300; bottom:0; left:600;
