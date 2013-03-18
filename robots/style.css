@@ -77,12 +77,12 @@ width:420px;
 
 #footer-follow {
 	background-color:brown;
-	width:50%;
+	width:100%;
 	float:right;
     	padding-top:50px;
  	bottom:0;
     	right:0;
-    	position:relative; left: 800px; 
+    	position:relative; left: 760px; 
 }
 
 #footer-contact {background-color:brown;
