@@ -80,8 +80,7 @@ width:420px;
 #footer-follow {
 	background-color:brown;
 	float:right;
-    padding:50px;
-    position:absolute;
+    padding-top:50px;
     bottom:0;
     right:0;
 }
@@ -89,6 +88,11 @@ width:420px;
 #footer-contact {background-color:brown;
     float:left;
     padding:50px;
+}
+
+footer {padding-top:500px;
+	
+	
 }
 
 li{text-decoration:none;
