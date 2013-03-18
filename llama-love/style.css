@@ -57,17 +57,11 @@ table {
 	float: center;
 	margin: 0 auto}
 	
-#llama-top{float:left;
-  margin: 100px;
-  width: 350px;
-  padding-top:50px;
- }
-
-#llama-bottom{float:left;
-  margin: 100px;
-  width: 350px;
-  padding-top:50px;
- }
+#llama-top {width: 400px;
+	float: left;
+	padding-right: 40px;}
+#llama-bottom {width: 400px;
+	float: left}
 
 h1 {font-size: 24px;
 	font-weight: bold;
