@@ -136,8 +136,21 @@ header a {	text-decoration: none;
 
 #sidebar {float:left;
 width:30%;
-background-color:purple;
+background-color:white;
 }
+
+#sidebar h1 {color:#744918;
+	font-size: 28px;
+	text-transform: uppercase;
+}
+
+#sidebar a {text-decoration: none;
+color:#744918;
+}
+
+#sidebar li {background-color:white;
+	padding:10px;
+	margin: 5px;}
 
 #site-footer {background-color: #744918;
 	width:960px;
