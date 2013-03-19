@@ -33,7 +33,7 @@ body {font-family: helvetica;
 	line-height: 1;
 	width:100%;
 	margin: 0 auto;
-	background-color: pink
+	background-color: white;
 
 }
 ol, ul {
@@ -52,7 +52,7 @@ table {
 	border-spacing: 0;
 }
 
-#site-wrapper {background-color:red;
+#site-wrapper {background-color:#ecf2d3;
 }
 
 header {position: relative;
@@ -108,7 +108,7 @@ header a {	text-decoration: none;
 
 #page {float:left;
 	width:60%;
-	background-color:yellow;
+	background-color:white;
 }
 
 #page h1 {color:#744918;
