@@ -122,7 +122,7 @@ width:30%;
 background-color:purple;
 }
 
-#site-footer {background-color: chocolate;
+#site-footer {background-color: #744918;
 	width:960px;
 	clear:both;
 	position:relative; 
@@ -131,17 +131,17 @@ background-color:purple;
 
 #footer-wrapper {
 	clear:both;
-	background-color: chocolate;
+	background-color: #744918;
 	height:120px;
 }
 
-#footer-contact {background-color:chocolate;
+#footer-contact {background-color:#744918;
 	width:30%;
 	margin-left: 156px;
 
 }
 
-#footer-contact h1 {color:brown;
+#footer-contact h1 {color:#b8a791;
 	font-size: 24px;
 	text-transform: uppercase;
 }
