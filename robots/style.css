@@ -111,11 +111,26 @@ header a {	text-decoration: none;
 	background-color:yellow;
 }
 
+#page h1 {color:#b8a791;
+	font-size: 30px;
+	text-transform: uppercase;
+}
+
+#page h2 {color:#b8a791;
+	font-size: 28px;
+	text-transform: uppercase;
+}
+
+#page p {color:black;
+	font-size: 14px;
+}
+
 #content {
 	width:960px;
 	margin: 0 auto;
 
 }
+
 
 #sidebar {float:left;
 width:30%;
@@ -159,4 +174,9 @@ background-color:purple;
 }
 
 #footer-follow li {float:left;
+}
+
+#footer-follow h1 {color:#b8a791;
+	font-size: 24px;
+	text-transform: uppercase;
 }
