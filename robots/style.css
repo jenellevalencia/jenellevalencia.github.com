@@ -66,28 +66,28 @@ header h1 {
 	position:absolute;
 	top:50px;
 	left:50px;
-	background-color: red;
+	background-color: #ecf2d3;
 
 }
 
 header nav {
 	position:absolute;
-	background-color:orange;
+	background-color:#ecf2d3;
 	right:0px;
 
 }
 
 header a {	text-decoration: none;
-	color:white;
+	color: #744918;
 }
 
 #menu-wrapper {
-	background-color:chocolate;
+	background-color:#744918;
 
 }
 
 #main-menu {
-	background-color: chocolate;
+	background-color: #744918;
 	position:relative; 
 	height:50px;
 	width:960px;
@@ -103,6 +103,7 @@ header a {	text-decoration: none;
 #main-menu a {text-decoration: none;
 	color:white;
 	text-transform: uppercase;
+	font-weight: bold;
 }
 
 #page {float:left;
