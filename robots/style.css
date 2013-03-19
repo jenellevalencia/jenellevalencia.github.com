@@ -151,10 +151,11 @@ background-color:purple;
 }
 
 #footer-follow {position:absolute; top:720; right:300; bottom:0; left:600;
-	background-color:#b8a791;
+	background-color:#744918;
 	width:25%;
 	height: 80px;
 	margin-left: 775px;
+
 }
 
 #footer-follow li {float:left;
