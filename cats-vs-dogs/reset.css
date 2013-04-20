@@ -138,10 +138,8 @@ ul {text-align: center;
 }
 
  li{
-	margin: 0 auto;
-    width: 85%
-    width:960px;
 	float:left;
+	text-align: center;
 	padding-top: 10px;
 	border-top: 3pt solid black;
 	border-bottom: 3pt solid black;
