@@ -74,6 +74,11 @@ html[xmlns] .clearfix { display: block; }
 * html .clearfix { height: 1%; }
 
 
+header {text-align:center;
+padding-top:5px;
+padding-bottom:10px;
+}
+
 #dogs {float:left;
   margin: 10px;
   width: 350px;
@@ -88,6 +93,11 @@ html[xmlns] .clearfix { display: block; }
 
 }
 
+footer {clear:both;
+	text-align:right;
+padding-top:500px;
+}
+
 #bottom-info {
 	border-width:2px;
 	border-style:solid;
@@ -97,14 +107,7 @@ html[xmlns] .clearfix { display: block; }
 	color:gray;
 }
 
-header {text-align:center;
-padding-top:5px;
-padding-bottom:10px;
-}
 
-footer {text-align:right;
-padding-top:500px;
-}
 
 p{text-align:left;
 font-family:helvetica; 
