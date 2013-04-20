@@ -121,7 +121,7 @@ color: #A0AEB8;
 text-align:left;}
 
 nav {
-    margin:10px;
+    margin: 0 auto;
     margin-top:10px;
     margin-bottom:10px;
     padding-left:240px;
@@ -129,10 +129,11 @@ nav {
     font-family: helvetica;
     font-size:25px;
     color:black;
-    list-style-type: disc;
+    list-style-type: none;
 }
 
 li{
+	margin:0 auto;
 	float:left;
 	padding-left:20px;
 	padding-top: 10px;
