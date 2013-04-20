@@ -95,6 +95,7 @@ padding-bottom:10px;
   padding-right:210px;	
 
 }
+img { max-width:100%; }
 
 footer {clear:both;
 }
@@ -150,3 +151,8 @@ ul {text-align: center;
 	width:144px;
 	list-style-type: disc;
 }
+
+@media screen and (max-width:600px) {
+    #dogs { float:left; width:98%; margin-left:1%; }
+    #cats { float:right; width:98%; margin-left:1%; }
+  }
