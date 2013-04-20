@@ -159,3 +159,11 @@ ul {text-align: center;
    p { font-size:1.8em; }
 	nav li ul { font-size:0.5em;
 }
+
+@media screen and (max-width:400px) {
+    #dogs { float:left; width:98%; margin-left:1%; }
+    #cats { float:right; width:98%; margin-left:1%; }
+  body { font-size:0.5em; }
+   p { font-size:1.8em; }
+	nav li ul { font-size:0.5em;
+}
