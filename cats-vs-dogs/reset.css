@@ -133,7 +133,11 @@ nav {
     list-style-type: none;
 }
 
-ul li{
+ul {text-align: center;
+
+}
+
+ li{
 	margin: 0 auto;
     width: 85%
     width:960px;
