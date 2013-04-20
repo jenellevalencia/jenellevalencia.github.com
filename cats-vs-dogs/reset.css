@@ -159,4 +159,6 @@ ul {text-align: center;
   body { font-size:0.5em; }
     p { font-size:1.8em; }
   }
-nav
+nav li ul { font-size:0.5em;
+
+}
