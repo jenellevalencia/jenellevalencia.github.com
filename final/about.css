@@ -121,13 +121,17 @@ height:480px;
 float:right;
 padding-right: 280px;
 padding-top: 100px;
+    }
 
+#content a {
+text-decoration:none;
+color: gray;
     }
 
 #content img {
 float:left;
 padding-left: 310px;
-
+padding-top: 10px;
     }
 
 
