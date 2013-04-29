@@ -1,3 +1,4 @@
+
 /* Meyer Reset */
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
@@ -34,7 +35,7 @@ body {font-family: 'Abel', sans-serif;
 	width:100%;
 	margin: 0 auto;
 	background-color: white
-	
+
 }
 ol, ul {
 	list-style: none;
@@ -59,16 +60,18 @@ table {
 }
 
 #site-header {
-	position: absolute;
-	top:50px;
-	background-color: black;
-	height:50px;
-	margin: 0 auto;
-	width: 100%;
+position: fixed;
+top: 50px;
+background-color: black;
+height: 50px;
+margin: 0 auto;
+width: 100%;
+z-index: 1000;
+
 }
 
 #site-header img {
-	position: absolute;
+	position: fixed;
 	left: 100px;
 
 }
@@ -81,7 +84,7 @@ header h1 {
 }
 
 #top-nav {
-	position:absolute;
+	position:fixed;
 	background-color:black;
 	font-size: 30px;
 	text-transform: uppercase;
@@ -118,33 +121,16 @@ margin: 0 auto;
   margin:0 auto;
     }
 
-#slideshow img {
-  position:absolute;
-  left:0;
-  -webkit-transition: opacity 1s ease-in-out;
-  -moz-transition: opacity 1s ease-in-out;
-  -o-transition: opacity 1s ease-in-out;
-  transition: opacity 1s ease-in-out;
- @keyframes cf3FadeInOut {
-  0% {
-  opacity:1;
-}
-45% {
-opacity:1;
-}
-55% {
-opacity:0;
-}
-100% {
-opacity:0;
-}
-}
-}
+
+#content img {position:absolute;
+	left:-90px;
+    }
 
 
 #footer-wrapper {
 	clear:both;
-	position: 
+	position: fixed;
+	width: 100%;
 	background-color: white;
 	height:50px;
 }
@@ -153,6 +139,7 @@ opacity:0;
 	clear:both;
 	background-color: black;
 	height:70px;
+	width: 100%;
 }
 
 footer p {float: right;
